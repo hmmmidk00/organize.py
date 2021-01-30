@@ -1,4 +1,4 @@
-this script help you to organize your Downloads files 
+#this script help you to organize your Downloads files 
 nex task to improve this script are:
 0-add zip & docx entensions
 1-keep it run in the backgroud and keep tracking files
