@@ -2,6 +2,7 @@
 nex task to improve this script are:
 0-add zip & docx entensions
 1-keep it run in the backgroud and keep tracking files
+https://www.youtube.com/watch?v=HcZ3gS1Rgcs
 2-make a list of all extenstions on that directory
 3-create directory got the name of the every extenstion
 4-if new files get downloaded .. wee need to check our extensions list --- if exsiste we move it to that file
